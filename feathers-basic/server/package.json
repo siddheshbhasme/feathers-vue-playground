@@ -57,7 +57,7 @@
     "@types/mongoose": "^5.5.19",
     "@types/serve-favicon": "^2.2.31",
     "axios": "^0.19.0",
-    "mocha": "^6.2.1",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.3",
     "shx": "^0.3.2",
     "ts-mocha": "^6.0.0",
